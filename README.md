@@ -1,7 +1,11 @@
-## Diamond Price Prediction
+# Diamond Price Prediction
 
+## For Domain knowledge
+```
+https://www.americangemsociety.org/ags-diamond-grading-system/
+```
 
-# Steps to git-clone:
+## Steps to git-clone:
 
 ```
 step 1: git clone https://github.com/RahulR300/Diamond-Price-Prediction
